@@ -1,0 +1,38 @@
+.containerdiv{
+    height: 100vh;
+
+}
+
+.imgdiv{
+    margin-top: 25px;
+    margin-left: 20px;
+}
+
+.col2{
+background-color: beige;
+    
+}
+
+.headElement{
+    margin-top: 20px;
+    margin-left: 20px;
+    color: blue;
+}
+
+.srchimg{
+    width: 90%;
+}
+.srchimg>img{
+    width: 100%;
+    height: 60px;
+    margin-top: 20px;
+    
+}
+
+.salesinfo{
+    margin-top: 20px;
+}
+
+.tableimg{
+    margin-top: 30px;
+}
